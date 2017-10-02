@@ -72,14 +72,14 @@ body{
 
 #mainNav{
   border-color:rgba(34,34,34,.05);
-  background-color:#fff;
+  background-color:#ffefd5;
   font-family:'Open Sans','Helvetica Neue',Arial,sans-serif;
   -webkit-transition:all .2s;
   -moz-transition:all .2s;
   transition:all .2s}
   #mainNav .navbar-brand{
     font-weight:700;
-    text-transform:uppercase;color:#f05f40;
+    text-transform:uppercase;color:#FF6347;
     font-family:'Open Sans','Helvetica Neue',Arial,sans-serif}
     #mainNav .navbar-brand:focus,#mainNav .navbar-brand:hover{
       color:#f05f40}
@@ -96,7 +96,7 @@ body{
     color:#f05f40}
   #mainNav .navbar-nav>li.nav-item>a.nav-link.active,
   #mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active{
-   color:#f05f40!important;
+   color:#FF6347!important;
    background-color:transparent}
   #mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover,
   #mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active:hover{
