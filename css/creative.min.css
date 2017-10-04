@@ -132,13 +132,7 @@ header.masthead{
   width:100%;
   min-height:auto;
   text-align:center;
-  color:#fff;
-  background-image:url(../img/header.jpg);
-  background-position:center;
-  -webkit-background-size:cover;
-  -moz-background-size:cover;
-  -o-background-size:cover;
-  background-size:cover}
+  color:#fff;}
   header.masthead .header-content{
     position:relative;
     width:100%;
