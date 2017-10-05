@@ -296,4 +296,5 @@ fieldset[disabled] .btn-primary:hover{
   font-family:'Open Sans','Helvetica Neue',Arial,sans-serif}
 
 .btn-xl{
-  padding:15px 30px}
+  padding:15px 30px
+  align: absolute}
