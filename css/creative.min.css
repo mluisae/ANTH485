@@ -144,14 +144,14 @@ header.masthead .header-content .header-content-inner h1{
   margin-top:0;
   margin-bottom:0;
   text-transform:uppercase
-  color: #000000}
+  color: black}
 header.masthead .header-content .header-content-inner hr{
   margin:30px auto}
 header.masthead .header-content .header-content-inner p{
   font-size:16px;
   font-weight:300;
   margin-bottom:50px;
-  color:#000000)}
+  color: black}
 @media (min-width:768px){
   header.masthead{height:100%;min-height:600px}
   header.masthead .header-content{
