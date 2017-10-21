@@ -132,7 +132,13 @@ header.masthead{
   width:100%;
   min-height:auto;
   text-align:center;
-  color: black;}
+  color: black;
+  background-image: url("https://www.flickr.com/photos/140228440@N07/37820082381/in/dateposted-public/");
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;}
   header.masthead .header-content{
     position:relative;
     width:100%;
